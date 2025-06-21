@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://prince5533.github.io/Nexora-Digital-1/sitemap.xml
+Sitemap: https://raw.githubusercontent.com/prince5533/Nexora-Digital-1/main/sitemap.xml
